@@ -1,5 +1,5 @@
 {
-  "name": "Copy of ClaimGuard AI",
-  "description": "An intelligent Insurance Claim Auditor compliant with IRDAI guidelines. Analyzes hospital bills against policies to detect overpricing and determine claim eligibility.",
+  "name": "ClaimGuard AI",
+  "description": "High-performance insurance claim auditor using Gemini 2.5 Flash for instant IRDAI-compliant analysis.",
   "requestFramePermissions": []
 }
