@@ -7,7 +7,7 @@ amount , billing, age ,disease, days admited
 or
 can add a spread sheet
 
-output
+expected output
 
 insurance detials about billing , costs , amount covered
 reasons for insurance denial 
