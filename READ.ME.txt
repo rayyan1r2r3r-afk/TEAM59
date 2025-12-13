@@ -1,0 +1,12 @@
+Key Advantages of AI in Health Insurance Systems
+
+Research suggests enhanced efficiency: AI streamlines claims processing, potentially reducing times by 80-90% and cutting administrative costs by 13-25%.
+It seems likely that fraud detection strengthens: Advanced models identify anomalies, saving up to $100 billion annually industry-wide.
+The evidence leans toward better personalization: Tailored policies based on data analysis improve outcomes and customer satisfaction.
+AI appears to boost customer service: 24/7 virtual assistants provide quick support, reducing onboarding costs by 20-40%.
+Proactive risk prediction shows promise: Forecasting health issues enables preventive care, potentially increasing adherence by 25%.
+
+Key Disadvantages
+
+Biases pose risks: Algorithms may perpetuate inequalities, leading to higher denial rates for marginalized groups.
+Transparency and privacy concerns persist: "Black box" decisions and data vulnerabilities can erode trust and expose sensitive information.
